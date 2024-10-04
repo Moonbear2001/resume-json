@@ -1,12 +1,4 @@
 {
-  "name": "Desmond Roberts",
-  "blurb": "Hello! I am Desmond Roberts, a new college graduate with a degree in computer science. I am a dedicated problem solver, self-motivator, and team player who can quickly adapt to new environments. Experience in software engineering in the .NET ecosystem with C# and Xamarin. I can do full stack development and have a strong interest in Linux and operating systems.",
-  "contact": {
-    "email": "desmonr1@aol.com",
-    "phone": "9494217720",
-    "linkedin": "https://www.linkedin.com/in/desmond-roberts-80b000220/",
-    "website": "https://desmondroberts.com"
-  },
   "education": [
     {
       "institution": "Rice University",
